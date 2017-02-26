@@ -1,4 +1,4 @@
-# myRepo
+# Old build script I wrote for work a long time ago. 
 0.Create Eclipse project
 File > New > Java Project. 
 Uncheck the default location check box and create this folder structure below. This is an example to setup DSave:
